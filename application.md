@@ -1,6 +1,6 @@
 # Radicle Grant Application
 
-- **Project Name:** Drips funding developer package
+- **Project Name:** Drips CLI + SDK Node Tutorial
 - **Team Name:** Sleepless DAO
 - **Payment Address:** TBC
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
@@ -9,10 +9,9 @@
 
 ### Overview
 
-- Developer tooling for facilitating project funding via Drips
-- Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
-- We would further increase the reach and usage of Drips Network, starting with extending the Radicle CLI
-- After winning the Radicle sponsor prize at ETH Global hackathon, we've been discussing potential for further development with some Drips team members. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to pursue our project further.
+Radicle CLI extension for drips.
+- We want to increase the reach and usage of drips.network, starting by extending the Radicle CLI.
+- Going beyond: This extension should serve as a point of reference how to use the Drips SDK in a node.js enviroment.
 
 ## Team :busts_in_silhouette:
 
@@ -27,7 +26,7 @@
 
 - **Contact Name:** Norman Saadé
 - **Contact Email:** norman.saade@gmail.com
-- **Website:**
+- **Website:** https://normad.eth.link/
 
 ### Legal Structure
 
@@ -36,13 +35,10 @@
 
 ### Team's experience
 
-Please describe the team's relevant experience. 
+We won the radicle sponsor prize at ethAmsterdam hackathon with our [project](https://showcase.ethglobal.com/ethamsterdam/rad-drip-gx4jr).
+Currently we are a team of four. Three developers and one PM.
 
-If your project involves development work, please single out a few interesting projects or contributions made by team members in the past. 
-
-For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at Radicle or elsewhere, please share info on that here.
+We've been discussing potential for further development. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to try to pursue this project further.
 
 ### Team Code Repos
 
@@ -57,7 +53,7 @@ team members:
 - https://github.com/Riki0923
 - https://github.com/james-dewasseige
 
-### Team LinkedIn Profiles (if available)
+### Team LinkedIn Profiles 
 
 - https://www.linkedin.com/<person_1>
 - https://www.linkedin.com/<person_2>
@@ -66,39 +62,38 @@ team members:
 
 ## Deliverables :nut_and_bolt:
 
-Our objective is to extend the Drips Network usage by providing developer tools.
-We will start by extending the Radicle CLI to enable developers to create Drips directly from their Radicle projects.
-- A first deliverable will consist of extending the Radicle CLI by developing the method to create a Drip directly from the CLI.
-- A second deliverable will consist of creating the NPM packages SDK tutorial, for facilitating first-hand adoption.
+Our objective is to increase the usage of drips.network.
+- Our first deliverable is an extension of the radicle cli: create a drip & give straight from the CLI.
+- Our second deliverable is a developer tutorial: how to use the drips sdk with node.js.
 
 See the next steps section for our vision regarding further plans.
 
-- **Total Estimated Duration:** Duration of the whole project
-- **Full-time equivalent (FTE):** Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-- **Total Costs:** Amount of Payment in USD for the whole project.
+- **Total Estimated Duration:** 1 week
+- **Full-time equivalent (FTE):** 5 days
+- **Total Costs:** tbd
 
->️ ❗*The more you can organize your milestones into manageable chunks that are conducive to iteration, the better!*
 
 ### Milestone 1
 
-Please add additional milestones in the same way:
+Open a drip via sdk
 
-- **Estimated Duration:** Duration of milestone 1
-- **FTE:** Amount of time (in days) required for a single person to complete this milestone
-- **Costs:** Amount of Payment in USD for milestone 1
+- **Estimated Duration:** 3 days
+- **FTE:** 3 days
+- **Costs:** tbd
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
-| 2.     | ...                      | ...                                                          |
+| 1.     | Wallet Connect via CLI   | tbd                                                          |
+| 2.     | Drips and Radicle account linking | tbd                                                 |
+| 3.     | Open Drip                | tbd                                                          |
 
 ### Milestone 2
 
-Please add additional milestones in the same way:
+Give via sdk
 
-- **Estimated Duration:** Duration of milestone 2
-- **FTE:** Amount of time (in days) required for a single person to complete this milestone
-- **Costs:** Amount of Payment in USD for milestone 2
+- **Estimated Duration:** 2 days
+- **FTE:** 2 days
+- **Costs:** tbd
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
@@ -112,6 +107,8 @@ Please include the following:
 - After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at extending other CLI environments
 - A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ETH Global hackathon, this seems a relevant next step for us.
 - Part of our initial grant scope is to help developers with some tutorials to ensure their succesful onboarding. We intend to keep a close eye on this to make sure our initial CLI extension scope will be useful for developers. We could add some work streams regarding such adoption.
+
+Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
 
 
 ## Additional Information :heavy_plus_sign:
