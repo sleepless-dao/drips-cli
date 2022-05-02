@@ -8,10 +8,11 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-Drips CLI + SDK Node Tutorial.
-Radicle CLI extension for drips.
-- We want to increase the reach and usage of drips.network, starting by extending the Radicle CLI.
-- Going beyond: This extension should serve as a point of reference how to use the Drips SDK in a node.js enviroment.
+This grant application consists of two components: 
+1. Node.js module that enables opening a drip and "give" straight from the CLI. This module should extend the radicle cli. 
+2. Drips SDK tutorial for node.js usage
+
+Overall, this should increase the reach and usage of drips.network.
 
 ## Team :busts_in_silhouette:
 
@@ -38,8 +39,6 @@ Radicle CLI extension for drips.
 We won the radicle sponsor prize at ethAmsterdam hackathon with our [project](https://showcase.ethglobal.com/ethamsterdam/rad-drip-gx4jr).
 Currently we are a team of four. Three developers and one PM.
 
-We've been discussing potential for further development. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to try to pursue this project further.
-
 ### Team Code Repos
 
 - https://github.com/sleepless-dao/
@@ -55,8 +54,7 @@ team members:
 
 ### Team LinkedIn Profiles 
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- TODO
 
 ## Project Description :page_facing_up:
 
@@ -97,7 +95,7 @@ Give via SDK
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
+| 1.     | Functional Give          | tbd                                                          |
 | 2.     | ...                      | ...                                                          |
 
 ### Milestone 3
@@ -110,12 +108,10 @@ Drips SDK Tutorial for node.js
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
+| 1.     | tbd                      | tbd                                                          |
 | 2.     | ...                      | ...                                                          |
 
 ## Future Plans
-
-Please include the following:
 
 - After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at other use cases.
 - A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ethAmsterdam hackathon, this seems a relevant next step for us.
@@ -129,4 +125,4 @@ Enabling developers to get funding for their projects via the Drips Network thro
 **How did you hear about the Grants Program?** ethGlobal / ethAmsterdam
 
 Other:
-- Won some sponsor prizes at ethAmsterdam: Radicle, The Graph, WalletConnect
+- We've been discussing potential for further development after the hackathon. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to try to pursue this project further.
