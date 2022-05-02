@@ -1,2 +1,2 @@
 # rad-drip
-adicle grant application
+radicle grant application
