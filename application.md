@@ -1,23 +1,13 @@
 # Radicle Grant Application
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
-
-> See the [Grants Program Process](https://github.com/radicle-dev/radicle-grants#process) on how to submit a proposal.
-
 - **Project Name:** Drips funding developer package
 - **Team Name:** Sleepless DAO
 - **Payment Address:** TBC
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview :page_facing_up:
 
-# This is some new text
-
 ### Overview
-
-Please provide the following:
 
 - Developer tooling for facilitating project funding via Drips
 - Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
@@ -28,21 +18,21 @@ Please provide the following:
 
 ### Team members
 
-- Norman Saade
+- Norman Saadé
 - James de Wasseige
 - Luca Donno
 - Kriztian 
 
 ### Contact
 
-- **Contact Name:** Norman Saade
+- **Contact Name:** Norman Saadé
 - **Contact Email:** norman.saade@gmail.com
 - **Website:**
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. Main Street 1, London N17LJ, United Kingdom)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Developer DAO Ltd.)
+- **Registered Address:** No registered legal entity.
+- **Registered Legal Entity:** No registered legal entity.
 
 ### Team's experience
 
@@ -56,15 +46,16 @@ If anyone on your team has applied for a grant at Radicle or elsewhere, please s
 
 ### Team Code Repos
 
-- https://github.com/normadn/sleeplessDAO
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/sleepless-dao/
+- https://github.com/sleepless-dao/drips-cli
+- https://github.com/normadn/radicle-drip-epns
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects/repos hosted elsewhere are also fine.
+team members:
 
 - https://github.com/normadn
 - https://github.com/lucadonnoh
 - https://github.com/Riki0923
+- https://github.com/james-dewasseige
 
 ### Team LinkedIn Profiles (if available)
 
