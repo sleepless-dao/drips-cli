@@ -1,2 +1,2 @@
-# rad-drip
+# drips-cli
 radicle grant application
