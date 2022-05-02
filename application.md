@@ -8,7 +8,7 @@
 ## Project Overview :page_facing_up:
 
 ### Overview
-
+Drips CLI + SDK Node Tutorial.
 Radicle CLI extension for drips.
 - We want to increase the reach and usage of drips.network, starting by extending the Radicle CLI.
 - Going beyond: This extension should serve as a point of reference how to use the Drips SDK in a node.js enviroment.
@@ -75,7 +75,7 @@ See the next steps section for our vision regarding further plans.
 
 ### Milestone 1
 
-Open a drip via sdk
+Open a drip via SDK
 
 - **Estimated Duration:** 3 days
 - **FTE:** 3 days
@@ -89,7 +89,20 @@ Open a drip via sdk
 
 ### Milestone 2
 
-Give via sdk
+Give via SDK
+
+- **Estimated Duration:** 2 days
+- **FTE:** 2 days
+- **Costs:** tbd
+
+| Number | Deliverable              | Specification                                                |
+| ------ | ------------------------ | ------------------------------------------------------------ |
+| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
+| 2.     | ...                      | ...                                                          |
+
+### Milestone 3
+
+Drips SDK Tutorial for node.js
 
 - **Estimated Duration:** 2 days
 - **FTE:** 2 days
@@ -104,8 +117,8 @@ Give via sdk
 
 Please include the following:
 
-- After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at extending other CLI environments
-- A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ETH Global hackathon, this seems a relevant next step for us.
+- After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at other use cases.
+- A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ethAmsterdam hackathon, this seems a relevant next step for us.
 - Part of our initial grant scope is to help developers with some tutorials to ensure their succesful onboarding. We intend to keep a close eye on this to make sure our initial CLI extension scope will be useful for developers. We could add some work streams regarding such adoption.
 
 Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
@@ -113,7 +126,7 @@ Enabling developers to get funding for their projects via the Drips Network thro
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** ETH Global Amsterdam
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+**How did you hear about the Grants Program?** ethGlobal / ethAmsterdam
 
-- Winner of ETH GLobal Amsterdam Hackathon for sponsors: Radicle, The Graph, WalletConnect
+Other:
+- Won some sponsor prizes at ethAmsterdam: Radicle, The Graph, WalletConnect
