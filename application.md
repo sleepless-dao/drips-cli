@@ -79,7 +79,7 @@ See the next steps section for our vision regarding further plans.
 
 ### Milestone 1
 
-Open a give via SDK
+"give" via SDK
 
 - **Estimated Duration:** 3 days
 - **FTE:** 3 days
@@ -93,7 +93,7 @@ Open a give via SDK
 
 ### Milestone 2
 
-Drip via SDK
+Open a drip via SDK
 
 - **Estimated Duration:** 2 days
 - **FTE:** 2 days
