@@ -98,8 +98,7 @@ Drip via SDK
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Functional Drip          | tbd                                                          |
-| 2.     | ...                      | ...                                                          |
+| 1.     | Functional Drip          | Use the SDK to send a Drip using the CLI                     |
 
 ### Milestone 3
 
@@ -111,8 +110,7 @@ Drips SDK Tutorial for node.js
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | tbd                      | tbd                                                          |
-| 2.     | ...                      | ...                                                          |
+| 1.     | Tutorial article    | Write an article about how we used the SDK to send drips using the CLI built with Node.js                                                          |
 
 ## Future Plans
 
