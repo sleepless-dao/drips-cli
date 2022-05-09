@@ -82,11 +82,11 @@ Open a give via SDK
 - **FTE:** 3 days
 - **Costs:** 2100 USC
 
-| Number | Deliverable              | Specification                                                |
-| ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | CLI setup                | Setup a CLI tool using Node.js                               |
-| 2.     | Wallet Connect via CLI   | Use a QR code inside the terminal to connect to the CLI      |
-| 3.     | Trigger a give           | Use ethers to send a tx to call the give function            |
+| Number | Deliverable              | Specification                                                    |
+| ------ | ------------------------ | ---------------------------------------------------------------- |
+| 1.     | CLI setup                | Setup a CLI tool using Node.js                                   |
+| 2.     | Wallet Connect via CLI   | Use a QR code inside the terminal to connect to the CLI          |
+| 3.     | Trigger a give           | Use ethers.js and the SDK to send a tx to call the give function |
 
 ### Milestone 2
 
