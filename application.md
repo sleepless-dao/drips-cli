@@ -120,7 +120,7 @@ Drips SDK Tutorial for node.js
 
 ## Future Plans
 
-- After having successfully built the first Drip CLI extension (Radicle CLI), we'll look at other use cases.
+- Make it possible to drip to a radicle project repo. 
 - A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ethAmsterdam hackathon, this seems a relevant next step for us.
 - Part of our initial grant scope is to help developers with some tutorials to ensure their succesful onboarding. We intend to keep a close eye on this to make sure our initial CLI extension scope will be useful for developers. We could add some work streams regarding such adoption.
 
@@ -129,4 +129,4 @@ Enabling developers to get funding for their projects via the Drips Network thro
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** ethGlobal / ethAmsterdam
+**How did you hear about the Grants Program?** ethAmsterdam hackathon
