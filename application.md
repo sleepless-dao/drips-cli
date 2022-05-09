@@ -70,7 +70,7 @@ Our objective is to increase the usage of drips.network.
 See the next steps section for our vision regarding further plans.
 
 - **Total Estimated Duration:** 1 week
-- **Full-time equivalent (FTE):** 5 days
+- **Full-time equivalent (FTE):** 7 days
 - **Total Costs:** tbd
 
 
