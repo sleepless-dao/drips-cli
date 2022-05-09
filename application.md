@@ -1,6 +1,6 @@
 # Radicle Grant Application
 
-- **Project Name:** Drips CLI + SDK Node Tutorial
+- **Project Name:** Drips CLI + SDK Tutorial for node.js
 - **Team Name:** Sleepless DAO
 - **Payment Address:** 0x67678BA1e337C6E6F1D052b021B4d4dBa49eB2ad
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
@@ -110,7 +110,10 @@ Drips SDK Tutorial for node.js
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Tutorial article    | Write an article about how we used the SDK to send drips using the CLI built with Node.js                                                          |
+| 1.     | Tutorial article    | Write an article about how we used the SDK to send drips using the CLI built with Node.js |
+| 2.     | Github readme  | Similar to https://github.com/radicle-dev/drips-js-sdk  |
+
+
 
 ## Future Plans
 
@@ -124,6 +127,3 @@ Enabling developers to get funding for their projects via the Drips Network thro
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** ethGlobal / ethAmsterdam
-
-Other:
-- We've been discussing potential for further development after the hackathon. Seeing the interest from both sides, we've decided to evaluate such grant opportunities to try to pursue this project further.
