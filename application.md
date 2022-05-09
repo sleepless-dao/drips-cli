@@ -1,6 +1,6 @@
 # Radicle Grant Application
 
-- **Project Name:** Drips CLI + SDK Tutorial for node.js
+- **Project Name:** Drips CLI + SDK tutorial for node.js
 - **Team Name:** Sleepless DAO
 - **Payment Address:** 0x67678BA1e337C6E6F1D052b021B4d4dBa49eB2ad
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
