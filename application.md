@@ -69,9 +69,9 @@ Our objective is to increase the usage of drips.network.
 
 See the next steps section for our vision regarding further plans.
 
-- **Total Estimated Duration:** 1 week
+- **Total Estimated Duration:** 3 week
 - **Full-time equivalent (FTE):** 7 days
-- **Total Costs:** tbd
+- **Total Costs:** 4900 USDC
 
 
 ### Milestone 1
@@ -80,7 +80,7 @@ Open a drip via SDK
 
 - **Estimated Duration:** 3 days
 - **FTE:** 3 days
-- **Costs:** tbd
+- **Costs:** 2100 USC
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
@@ -94,7 +94,7 @@ Give via SDK
 
 - **Estimated Duration:** 2 days
 - **FTE:** 2 days
-- **Costs:** tbd
+- **Costs:** 1400 USDC
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
@@ -107,7 +107,7 @@ Drips SDK Tutorial for node.js
 
 - **Estimated Duration:** 2 days
 - **FTE:** 2 days
-- **Costs:** tbd
+- **Costs:** 1400 USDC
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
