@@ -76,7 +76,7 @@ See the next steps section for our vision regarding further plans.
 
 ### Milestone 1
 
-Open a drip via SDK
+Open a give via SDK
 
 - **Estimated Duration:** 3 days
 - **FTE:** 3 days
@@ -84,13 +84,13 @@ Open a drip via SDK
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Wallet Connect via CLI   | tbd                                                          |
-| 2.     | Drips and Radicle account linking | tbd                                                 |
-| 3.     | Open Drip                | tbd                                                          |
+| 1.     | CLI setup                | Setup a CLI tool using Node.js                               |
+| 2.     | Wallet Connect via CLI   | Use a QR code inside the terminal to connect to the CLI      |
+| 3.     | Trigger a give           | Use ethers to send a tx to call the give function            |
 
 ### Milestone 2
 
-Give via SDK
+Drip via SDK
 
 - **Estimated Duration:** 2 days
 - **FTE:** 2 days
@@ -98,7 +98,7 @@ Give via SDK
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Functional Give          | tbd                                                          |
+| 1.     | Functional Drip          | tbd                                                          |
 | 2.     | ...                      | ...                                                          |
 
 ### Milestone 3
