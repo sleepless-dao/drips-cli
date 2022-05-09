@@ -2,7 +2,7 @@
 
 - **Project Name:** Drips CLI + SDK Node Tutorial
 - **Team Name:** Sleepless DAO
-- **Payment Address:** TBC
+- **Payment Address:** 0x67678BA1e337C6E6F1D052b021B4d4dBa49eB2ad
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
 
 ## Project Overview :page_facing_up:
@@ -19,9 +19,9 @@ Overall, this should increase the reach and usage of drips.network.
 ### Team members
 
 - Norman Saadé
-- James de Wasseige
 - Luca Donno
-- Kriztian 
+- Krisztian Barta
+- James de Wasseige
 
 ### Contact
 
@@ -37,7 +37,7 @@ Overall, this should increase the reach and usage of drips.network.
 ### Team's experience
 
 We won the radicle sponsor prize at ethAmsterdam hackathon with our [project](https://showcase.ethglobal.com/ethamsterdam/rad-drip-gx4jr).
-Currently we are a team of four. Three developers and one PM.
+Currently we are a team of four. Three developers and one Product Manager.
 
 ### Team Code Repos
 
@@ -45,7 +45,7 @@ Currently we are a team of four. Three developers and one PM.
 - https://github.com/sleepless-dao/drips-cli
 - https://github.com/normadn/radicle-drip-epns
 
-team members:
+### Team members:
 
 - https://github.com/normadn
 - https://github.com/lucadonnoh
@@ -54,7 +54,10 @@ team members:
 
 ### Team LinkedIn Profiles 
 
-- TODO
+- https://www.linkedin.com/in/nosaa/
+- https://www.linkedin.com/in/luca-donno-89227116a/
+- https://www.linkedin.com/in/kriszti%C3%A1n-barta-5b5020178/
+- https://www.linkedin.com/in/meet-jay/
 
 ## Project Description :page_facing_up:
 
