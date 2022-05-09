@@ -62,7 +62,7 @@ Currently we are a team of four. Three developers and one Product Manager.
 ## Project Description :page_facing_up:
 We want to make it easy for open source projects to get funding. That's why we want to make opening a drip just as easy as creating a git repo.
 
-End goal: Fund projects instead of indivuals.
+End goal: Fund radicle projects.
 
 ## Deliverables :nut_and_bolt:
 
@@ -121,7 +121,7 @@ Drips SDK Tutorial for node.js
 ## Future Plans
 
 - Make it possible to drip to a radicle project repo. 
-- A concrete next step that we would like to pursue after this first grant will be to integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ethAmsterdam hackathon, this seems a relevant next step for us.
+- Integrate EPNS notifications into the flow, to facilitate developers' funding journey even more. As we've already started this part in the course of our ethAmsterdam hackathon, this seems a relevant next step for us.
 - Part of our initial grant scope is to help developers with some tutorials to ensure their succesful onboarding. We intend to keep a close eye on this to make sure our initial CLI extension scope will be useful for developers. We could add some work streams regarding such adoption.
 
 Enabling developers to get funding for their projects via the Drips Network through a series of developer tools integrations: CLI extensions (NPM packages), SDK tutorials, and potential for further integrations (such EPNS, for closing the loop)
