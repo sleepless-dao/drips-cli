@@ -60,6 +60,9 @@ Currently we are a team of four. Three developers and one Product Manager.
 - https://www.linkedin.com/in/meet-jay/
 
 ## Project Description :page_facing_up:
+We want to make it easy for open source projects to get funding. That's why we want to make opening a drip just as easy as creating a git repo.
+
+End goal: Fund projects instead of indivuals.
 
 ## Deliverables :nut_and_bolt:
 
